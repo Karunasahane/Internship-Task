@@ -15,6 +15,10 @@
   
 ![Screenshot (507)](https://github.com/Karunasahane/Internship-Task/assets/118338095/a5bfe677-ac97-49f5-8baf-238b375aac72)
 
+<h2>Mysql table<h2/>
+
+![Screenshot (510)](https://github.com/Karunasahane/Internship-Task/assets/118338095/26a19de9-f83e-47ce-adcb-ff10a77e9387)
+
 <p>
 <h3>Backend</h3>
 The backend of the application is built using Flask, a Python web framework.
