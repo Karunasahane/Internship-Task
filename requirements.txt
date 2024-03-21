@@ -1,4 +1,4 @@
 flask
 mysql-connector-python
-pip3 install requests
+pip install click request
 Werkzeug
